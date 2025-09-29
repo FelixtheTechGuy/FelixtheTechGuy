@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Felix+Osei+👋;ICT+Specialist+%26+Cloud+Enthusiast;Passionate+about+Tech+Education+%26+Innovation;Exploring+Anything+Tech+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Felix+the+Tech+Guy+👋;ICT+Specialist+%26+Cloud+Enthusiast;Passionate+about+Tech+Education+%26+Innovation;Exploring+Anything+Tech+🚀)](https://git.io/typing-svg)
 
 ---
 
-# Hi there 👋, I'm Felix Osei  
+# Hi there 👋, I'm Felix the Tech Guy
 
 ### ICT Specialist & Cloud Enthusiast passionate about tech education and innovation  
 
@@ -34,17 +34,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixthetechguy&show_icons=true&theme=radical" alt="Felix's GitHub stats" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixthetechguy&theme=radical" alt="GitHub streak" height="160"/>  
-</p>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixthetechguy&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
-</p>  
 
----
 
 ## 📫 Connect with Me  
 - 📧 Email: [admin@felixthetechguy.dev](mailto:admin@felixthetechguy.dev)  
